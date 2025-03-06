@@ -1,9 +1,10 @@
 {
-    "name": "Octo Organization Workflow",
+    "name": "Demo WF",
     "description": "Octo Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Go",
+        "Html"
     ],
     "filePatterns": [
         "package.json$",
